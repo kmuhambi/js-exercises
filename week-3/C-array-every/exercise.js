@@ -4,7 +4,9 @@
 
 var students = ["Omar", "Austine", "Dany", "Swathi", "Lesley", "Rukmini"];
 var group = ["Austine", "Dany", "Swathi", "Daniel"];
-
+function isAstudent(name){return students.some(function(person
+  ))return person == name;
+}
 var groupIsOnlyStudents; // complete this statement
 
 if (groupIsOnlyStudents) {
